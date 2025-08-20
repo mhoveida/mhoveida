@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Maddison, and I'm a Columbia trained computer scientist interested in all things Python and Machine Learning!
+- 🔭 I’m currently working on [Humor Project] (https://crackd.ai/), building an AI-powered meme generator for user-uploaded images.
+- 🌱 I recently worked on 
+- 👯 I’m looking to collaborate on ...
 <!--
 **mhoveida/mhoveida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
