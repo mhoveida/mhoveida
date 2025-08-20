@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Maddison, and I'm a Columbia trained computer scientist interested in all things Python and Machine Learning!
-- 🔭 I’m currently working on [Crackd](https://crackd.ai/), building an AI-powered meme generator for user-uploaded images.
+- 🔭 I’m currently working on [Crackd.ai](https://crackd.ai/), building an AI-powered meme generator for user-uploaded images.
 - 🌱 I recently worked on [Routerr Health](https://github.com/Routerr-Health), a Clinical Route Optimization & Scheduling algorithm automates scheduling by considering multiple clinical and geographic factors.
 <!--
 **mhoveida/mhoveida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
