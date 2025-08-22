@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=081A33&background=35C7D882&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Maddison!" alt="Typing SVG" /></a>- A Columbia trained computer scientist interested in all things Python and Machine Learning!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=081A33&background=35C7D882&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Hi%2C+I'm+Maddison!" alt="Typing SVG" /></a>
+- A Columbia trained computer scientist interested in all things Python and Machine Learning!
 
 - I’m currently working on Crackd.ai, building an AI-powered meme generator for user-uploaded images. [Crackd.ai](https://crackd.ai/)
 
