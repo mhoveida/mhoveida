@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Maddison!" alt="Typing SVG" /></a>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Maddison </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=081A33&background=35C7D882&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Maddison!" alt="Typing SVG" /></a><h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Maddison </h1>
 - A Columbia trained computer scientist interested in all things Python and Machine Learning!
 
 - I’m currently working on Crackd.ai, building an AI-powered meme generator for user-uploaded images. [Crackd.ai](https://crackd.ai/)
