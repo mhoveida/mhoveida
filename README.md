@@ -19,7 +19,7 @@
 
 <img src="https://camo.githubusercontent.com/4178751410b1497630b263b42babdcb20cc8424f35d07b8707ecc04cb2759426/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d68652d6c6172696f7573267468656d653d746f6b796f6e69676874" alt="Summary Card" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&amp;theme=tokyonight" style="max-width: 100%;">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">👨‍💻 Programming and Markup Languages:</h3>
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
       <a href="https://www.cprogramming.com/"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
