@@ -17,8 +17,6 @@
 <a href="mailto:mohaddesehhoveida@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a> 
 </p>
 
-<img src="https://camo.githubusercontent.com/4178751410b1497630b263b42babdcb20cc8424f35d07b8707ecc04cb2759426/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d68652d6c6172696f7573267468656d653d746f6b796f6e69676874" alt="Summary Card" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&amp;theme=tokyonight" style="max-width: 100%;">
-
 <h3 align="left">👨‍💻 Programming and Markup Languages</h3>
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -87,11 +85,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-  
+ 
+<img src="https://camo.githubusercontent.com/4178751410b1497630b263b42babdcb20cc8424f35d07b8707ecc04cb2759426/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d68652d6c6172696f7573267468656d653d746f6b796f6e69676874" alt="Summary Card" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&amp;theme=tokyonight" style="max-width: 100%;">
+ 
 <br clear="both">
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+<h2>📘 My Top Open Source Projects</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
