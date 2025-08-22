@@ -369,5 +369,3 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|
 <br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhoveida)](https://github.com/mhoveida/github-readme-stats)
