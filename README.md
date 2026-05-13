@@ -50,6 +50,12 @@
 	  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"></a>
 	  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
 
+## 📈 GitHub Stats
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&theme=tokyonight)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhoveida&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhoveida&theme=tokyonight)
 
 <h3>🔥 Streak Stats</h3>
 
