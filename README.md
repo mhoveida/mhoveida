@@ -63,6 +63,7 @@
 	<a href="https://github.com/mhoveida/Automatic-Feature-Matching-Panorama-Stitching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Automatic-Feature-Matching-Panorama-Stitching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Automatic-Feature-Matching-Panorama-Stitching"></a>
 	<a href="https://github.com/mhoveida/Prokudin-Gorskii-Colorization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Prokudin-Gorskii-Colorization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prokudin-Gorskii-Colorization"></a>
 	</p>
+	<a href="https://github.com/mhoveida?tab=repositories&q=nerf+OR+vision"><img src="https://img.shields.io/badge/More%20Computer%20Vision%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 <h2>🗣️ Speech & NLP Projects</h2>
   <p align="left">
@@ -74,6 +75,7 @@
 	<a href="https://github.com/mhoveida/Transition-Based-Dependency-Parser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Transition-Based-Dependency-Parser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Transition-Based-Dependency-Parser"></a>
 	<a href="https://github.com/mhoveida/Trigram-Language-Model"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Trigram-Language-Model&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigram-Language-Model"></a>
 		</p>
+		<a href="https://github.com/mhoveida?tab=repositories&q=nlp+OR+speech"><img src="https://img.shields.io/badge/More%20NLP%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 <h2>🤖 Machine Learning/AI Projects:</h2>
   <p align="left">
@@ -89,6 +91,7 @@
 	<a href="https://github.com/mhoveida/MNIST-Sign-Language-CNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=MNIST-Sign-Language-CNN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MNIST-Sign-Language-CNN"></a>
 	<a href="https://github.com/mhoveida/Robot-Path-Planning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Robot-Path-Planning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robot-Path-Planning"></a>
 	</p>
+	<a href="https://github.com/mhoveida?tab=repositories&q=ml+OR+prediction+OR+classifier"><img src="https://img.shields.io/badge/More%20ML%2FAI%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 <h2>🌐 Web Applications Projects:</h2>
   <p align="left">
@@ -96,6 +99,7 @@
 	<a href="https://github.com/mhoveida/Overwater-Bungalow-Explorer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Overwater-Bungalow-Explorer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Overwater-Bungalow-Explorer"></a>
 	<a href="https://github.com/mhoveida/restaurant-roulette"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=restaurant-roulette&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="restaurant-roulette"></a>
 	</p>
+	<a href="https://github.com/mhoveida?tab=repositories&q=web+OR+ui"><img src="https://img.shields.io/badge/More%20Web%20App%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 
 
