@@ -72,6 +72,12 @@
 	<a href="https://github.com/mhoveida/Dialogue-Act-Classification-and-SDS-Evaluation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Dialogue-Act-Classification-and-SDS-Evaluation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dialogue-Act-Classification-and-SDS-Evaluation"></a>
 	<a href="https://github.com/mhoveida/Speech-Acoustic-Emotion-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Speech-Acoustic-Emotion-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Speech-Acoustic-Emotion-Analysis"></a>
 
+	<h2>📕 Web Applications Projects:</h2>
+  <p align="left">
+    <a href="https://github.com/mhoveida/UI-Project-Sleep-Cycle"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=UI-Project-Sleep-Cycle&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UI-Project-Sleep-Cycle"></a>
+	<a href="https://github.com/mhoveida/Overwater-Bungalow-Explorer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=DOverwater-Bungalow-Explorer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Overwater-Bungalow-Explorer"></a>
+	<a href="https://github.com/mhoveida/restaurant-roulette"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=restaurant-roulette&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="restaurant-roulette"></a>
+
 
 # 🔭Actions
 <picture>
