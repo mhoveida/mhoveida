@@ -86,7 +86,7 @@
 	<a href="https://github.com/mhoveida/Futoshiki-Solver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Futoshiki-Solver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Futoshiki-Solver"></a>
 	<a href="https://github.com/mhoveida/MNIST-Sign-Language-CNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=MNIST-Sign-Language-CNN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MNIST-Sign-Language-CNN"></a>
 	<a href="https://github.com/mhoveida/Robot-Path-Planning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Robot-Path-Planning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robot-Path-Planning"></a>
-	<a href="https://github.com/search?q=user:mhoveida+topic:nlp&type=repositories"><img src="https://img.shields.io/badge/More%20ML%2FAI%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
+	<a href="https://github.com/search?q=user:mhoveida+topic:machine-learning&type=repositories"><img src="https://img.shields.io/badge/More%20ML%2FAI%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 	</p>
 
 <h2>🌐 Web Application Projects:</h2>
