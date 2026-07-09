@@ -64,7 +64,7 @@
 	<a href="https://github.com/mhoveida/Prokudin-Gorskii-Colorization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Prokudin-Gorskii-Colorization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prokudin-Gorskii-Colorization"></a>
 	</p>
 
-<h2>🗣️ Advanced Spoken and Natural Language Processing Projects</h2>
+<h2>🗣️ Speech & NLP Projects</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/Multimodal-Speech-Emotion-Recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Multimodal-Speech-Emotion-Recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Multimodal-Speech-Emotion-Recognition"></a>
 	<a href="https://github.com/mhoveida/Dialogue-Act-Classification-and-SDS-Evaluation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Dialogue-Act-Classification-and-SDS-Evaluation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dialogue-Act-Classification-and-SDS-Evaluation"></a>
