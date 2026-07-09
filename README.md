@@ -68,7 +68,8 @@
 	<a href="https://github.com/mhoveida/Two-View-Structure-from-Motion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Two-View-Structure-from-Motion&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Two-View-Structure-from-Motion"></a>
 	<a href="https://github.com/mhoveida/Automatic-Feature-Matching-Panorama-Stitching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Automatic-Feature-Matching-Panorama-Stitching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Automatic-Feature-Matching-Panorama-Stitching"></a>
 	<a href="https://github.com/mhoveida/Prokudin-Gorskii-Colorization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Prokudin-Gorskii-Colorization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prokudin-Gorskii-Colorization"></a>
-<h2>📕 Top Projects I've Contributed To</h2>
+
+<h2>📕 Natural Language Processing Projects</h2>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
