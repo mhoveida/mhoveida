@@ -62,7 +62,7 @@
 	<a href="https://github.com/search?q=user:mhoveida+topic:computer-vision&type=repositories"><img src="https://img.shields.io/badge/More%20Computer%20Vision%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 	</p>
 
-<h2>🗣️ Spoken Language Processing Projects</h2>
+<h2>🗣️ Speech Processing Projects</h2>
 	<p align="left">
 	    <a href="https://github.com/mhoveida/Multimodal-Speech-Emotion-Recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Multimodal-Speech-Emotion-Recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Multimodal-Speech-Emotion-Recognition"></a>
 		<a href="https://github.com/mhoveida/Dialogue-Act-Classification-and-SDS-Evaluation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Dialogue-Act-Classification-and-SDS-Evaluation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dialogue-Act-Classification-and-SDS-Evaluation"></a>
@@ -78,7 +78,7 @@
 	<a href="https://github.com/search?q=user:mhoveida+topic:nlp&type=repositories"><img src="https://img.shields.io/badge/More%20NLP%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 		</p>
 
-<h2>🤖 Machine Learning/AI Projects:</h2>
+<h2>🤖 ML/AI Projects:</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/Heart-Disease-Prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Heart-Disease-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Heart-Disease-Prediction"></a>
 	<a href="https://github.com/mhoveida/Twitter-Sentiment-Logistic-Regression"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Twitter-Sentiment-Logistic-Regression&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Twitter-Sentiment-Logistic-Regression"></a>
