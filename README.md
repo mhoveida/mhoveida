@@ -62,7 +62,8 @@
 	<a href="https://github.com/mhoveida/Two-View-Structure-from-Motion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Two-View-Structure-from-Motion&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Two-View-Structure-from-Motion"></a>
 	<a href="https://github.com/mhoveida/Automatic-Feature-Matching-Panorama-Stitching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Automatic-Feature-Matching-Panorama-Stitching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Automatic-Feature-Matching-Panorama-Stitching"></a>
 	<a href="https://github.com/mhoveida/Prokudin-Gorskii-Colorization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Prokudin-Gorskii-Colorization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prokudin-Gorskii-Colorization"></a>
-	<a href="https://github.com/mhoveida?tab=repositories&q=nerf+OR+vision"><img src="https://img.shields.io/badge/More%20Computer%20Vision%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
+	<a href="https://github.com/mhoveida?tab=repositories&q=&type=&language=&sort=&topic=computer-vision"><img src="https://img.shields.io/badge/More%20Computer%20Vision%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
+
 	</p>
 
 <h2>🗣️ Speech & NLP Projects</h2>
