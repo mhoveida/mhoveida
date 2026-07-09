@@ -81,6 +81,13 @@
 	<a href="https://github.com/mhoveida/restaurant-roulette"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=restaurant-roulette&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="restaurant-roulette"></a>
 	</p>
 
+<h2>📕 Machine Learning/AI Projects:</h2>
+  <p align="left">
+    <a href="https://github.com/mhoveida/Heart-Disease-Prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Heart-Disease-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Heart-Disease-Prediction"></a>
+	<a href="https://github.com/mhoveida/Twitter-Sentiment-Logistic-Regression"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Twitter-Sentiment-Logistic-Regression&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Twitter-Sentiment-Logistic-Regression"></a>
+	<a href="https://github.com/mhoveida/Network-Anomaly-Detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Network-Anomaly-Detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Network-Anomaly-Detection"></a>
+	</p>
+
 
 # 🔭Actions
 <picture>
