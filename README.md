@@ -58,24 +58,25 @@
   <p align="left">
     <a href="https://github.com/mhoveida/Depth-Guided-NERF-Mixed-Reality"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Depth-Guided-NERF-Mixed-Reality&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Depth-Guided-NERF-Mixed-Reality"></a>
 	<a href="https://github.com/mhoveida/Diffusion-Models-Flow-Matching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Diffusion-Models-Flow-Matching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Diffusion-Models-Flow-Matching"></a>
-	<a href="https://github.com/mhoveida/Neural-Radiance-Fields-NERF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Neural-Radiance-Fields-NERF&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Neural-Radiance-Fields-NERF"></a>
 	<a href="https://github.com/mhoveida/Two-View-Structure-from-Motion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Two-View-Structure-from-Motion&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Two-View-Structure-from-Motion"></a>
-	<a href="https://github.com/mhoveida/Automatic-Feature-Matching-Panorama-Stitching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Automatic-Feature-Matching-Panorama-Stitching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Automatic-Feature-Matching-Panorama-Stitching"></a>
-	<a href="https://github.com/mhoveida/Prokudin-Gorskii-Colorization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Prokudin-Gorskii-Colorization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prokudin-Gorskii-Colorization"></a>
 	<a href="https://github.com/search?q=user:mhoveida+topic:computer-vision&type=repositories"><img src="https://img.shields.io/badge/More%20Computer%20Vision%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 	</p>
 
-<h2>🗣️ Speech & NLP Projects</h2>
+<h2>🗣️ Spoken Language Processing Projects</h2>
+	<p align="left">
+	    <a href="https://github.com/mhoveida/Multimodal-Speech-Emotion-Recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Multimodal-Speech-Emotion-Recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Multimodal-Speech-Emotion-Recognition"></a>
+		<a href="https://github.com/mhoveida/Dialogue-Act-Classification-and-SDS-Evaluation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Dialogue-Act-Classification-and-SDS-Evaluation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dialogue-Act-Classification-and-SDS-Evaluation"></a>
+		<a href="https://github.com/mhoveida/Speech-Acoustic-Emotion-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Speech-Acoustic-Emotion-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Speech-Acoustic-Emotion-Analysis"></a>
+	</p>
+
+
+<h2>📝 NLP Projects</h2>
   <p align="left">
-    <a href="https://github.com/mhoveida/Multimodal-Speech-Emotion-Recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Multimodal-Speech-Emotion-Recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Multimodal-Speech-Emotion-Recognition"></a>
-	<a href="https://github.com/mhoveida/Dialogue-Act-Classification-and-SDS-Evaluation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Dialogue-Act-Classification-and-SDS-Evaluation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dialogue-Act-Classification-and-SDS-Evaluation"></a>
-	<a href="https://github.com/mhoveida/Speech-Acoustic-Emotion-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Speech-Acoustic-Emotion-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Speech-Acoustic-Emotion-Analysis"></a>
-	<a href="https://github.com/mhoveida/Image-Caption-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Image-Caption-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Image-Caption-Generator"></a>
+    <a href="https://github.com/mhoveida/Image-Caption-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Image-Caption-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Image-Caption-Generator"></a>
 	<a href="https://github.com/mhoveida/Semantic-Role-Labeling"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Semantic-Role-Labeling&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Semantic-Role-Labeling"></a>
 	<a href="https://github.com/mhoveida/Transition-Based-Dependency-Parser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Transition-Based-Dependency-Parser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Transition-Based-Dependency-Parser"></a>
-	<a href="https://github.com/mhoveida/Trigram-Language-Model"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Trigram-Language-Model&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigram-Language-Model"></a>
+	<a href="https://github.com/search?q=user:mhoveida+topic:nlp&type=repositories"><img src="https://img.shields.io/badge/More%20Computer%20Vision%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 		</p>
-		<a href="https://github.com/mhoveida?tab=repositories&q=nlp+OR+speech"><img src="https://img.shields.io/badge/More%20NLP%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 <h2>🤖 Machine Learning/AI Projects:</h2>
   <p align="left">
