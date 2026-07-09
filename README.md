@@ -52,7 +52,6 @@
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&theme=tokyonight)
 
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhoveida&theme=tokyonight)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhoveida&theme=tokyonight)
 
 <h2>📘 Computer Vision Projects</h2>
   <p align="left">
