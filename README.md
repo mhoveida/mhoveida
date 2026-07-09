@@ -54,7 +54,7 @@
 
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhoveida&theme=tokyonight)
 
-<h2>📘 Computer Vision Projects</h2>
+<h2>🖼️ Computer Vision Projects</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/Depth-Guided-NERF-Mixed-Reality"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Depth-Guided-NERF-Mixed-Reality&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Depth-Guided-NERF-Mixed-Reality"></a>
 	<a href="https://github.com/mhoveida/Diffusion-Models-Flow-Matching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Diffusion-Models-Flow-Matching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Diffusion-Models-Flow-Matching"></a>
@@ -64,7 +64,7 @@
 	<a href="https://github.com/mhoveida/Prokudin-Gorskii-Colorization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Prokudin-Gorskii-Colorization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prokudin-Gorskii-Colorization"></a>
 	</p>
 
-<h2>📕 Advanced Spoken and Natural Language Processing Projects</h2>
+<h2>🗣️ Advanced Spoken and Natural Language Processing Projects</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/Multimodal-Speech-Emotion-Recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Multimodal-Speech-Emotion-Recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Multimodal-Speech-Emotion-Recognition"></a>
 	<a href="https://github.com/mhoveida/Dialogue-Act-Classification-and-SDS-Evaluation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Dialogue-Act-Classification-and-SDS-Evaluation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dialogue-Act-Classification-and-SDS-Evaluation"></a>
@@ -75,7 +75,7 @@
 	<a href="https://github.com/mhoveida/Trigram-Language-Model"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Trigram-Language-Model&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Trigram-Language-Model"></a>
 		</p>
 
-<h2>📕 Machine Learning/AI Projects:</h2>
+<h2>🤖 Machine Learning/AI Projects:</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/Heart-Disease-Prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Heart-Disease-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Heart-Disease-Prediction"></a>
 	<a href="https://github.com/mhoveida/Twitter-Sentiment-Logistic-Regression"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Twitter-Sentiment-Logistic-Regression&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Twitter-Sentiment-Logistic-Regression"></a>
@@ -90,22 +90,12 @@
 	<a href="https://github.com/mhoveida/Robot-Path-Planning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Robot-Path-Planning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robot-Path-Planning"></a>
 	</p>
 
-<h2>📕 Web Applications Projects:</h2>
+<h2>🌐 Web Applications Projects:</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/UI-Project-Sleep-Cycle"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=UI-Project-Sleep-Cycle&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UI-Project-Sleep-Cycle"></a>
 	<a href="https://github.com/mhoveida/Overwater-Bungalow-Explorer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Overwater-Bungalow-Explorer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Overwater-Bungalow-Explorer"></a>
 	<a href="https://github.com/mhoveida/restaurant-roulette"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=restaurant-roulette&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="restaurant-roulette"></a>
 	</p>
-
-
-
-
-# 🔭Actions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
