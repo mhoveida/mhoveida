@@ -90,7 +90,7 @@
 	<a href="https://github.com/mhoveida/restaurant-roulette"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=restaurant-roulette&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="restaurant-roulette"></a>
 	</p>
 
-	## 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&theme=tokyonight)
 
