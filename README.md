@@ -47,11 +47,6 @@
 	  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"></a>
 	  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
   </p>
-## 📈 GitHub Stats
-
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&theme=tokyonight)
-
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhoveida&theme=tokyonight)
 
 <h2>🖼️ Computer Vision Projects</h2>
   <p align="left">
@@ -94,6 +89,13 @@
 	<a href="https://github.com/mhoveida/Overwater-Bungalow-Explorer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Overwater-Bungalow-Explorer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Overwater-Bungalow-Explorer"></a>
 	<a href="https://github.com/mhoveida/restaurant-roulette"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=restaurant-roulette&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="restaurant-roulette"></a>
 	</p>
+
+	## 📈 GitHub Stats
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhoveida&theme=tokyonight)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhoveida&theme=tokyonight)
+
 
 
 
