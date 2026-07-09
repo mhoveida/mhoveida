@@ -65,18 +65,21 @@
 	<a href="https://github.com/mhoveida/Two-View-Structure-from-Motion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Two-View-Structure-from-Motion&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Two-View-Structure-from-Motion"></a>
 	<a href="https://github.com/mhoveida/Automatic-Feature-Matching-Panorama-Stitching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Automatic-Feature-Matching-Panorama-Stitching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Automatic-Feature-Matching-Panorama-Stitching"></a>
 	<a href="https://github.com/mhoveida/Prokudin-Gorskii-Colorization"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Prokudin-Gorskii-Colorization&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Prokudin-Gorskii-Colorization"></a>
+	</p>
 
 <h2>📕 Advanced Spoken Language Processing Projects</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/Multimodal-Speech-Emotion-Recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Multimodal-Speech-Emotion-Recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Multimodal-Speech-Emotion-Recognition"></a>
 	<a href="https://github.com/mhoveida/Dialogue-Act-Classification-and-SDS-Evaluation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Dialogue-Act-Classification-and-SDS-Evaluation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dialogue-Act-Classification-and-SDS-Evaluation"></a>
 	<a href="https://github.com/mhoveida/Speech-Acoustic-Emotion-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Speech-Acoustic-Emotion-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Speech-Acoustic-Emotion-Analysis"></a>
+	</p>
 
 <h2>📕 Web Applications Projects:</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/UI-Project-Sleep-Cycle"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=UI-Project-Sleep-Cycle&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UI-Project-Sleep-Cycle"></a>
 	<a href="https://github.com/mhoveida/Overwater-Bungalow-Explorer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Overwater-Bungalow-Explorer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Overwater-Bungalow-Explorer"></a>
 	<a href="https://github.com/mhoveida/restaurant-roulette"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=restaurant-roulette&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="restaurant-roulette"></a>
+	</p>
 
 
 # 🔭Actions
