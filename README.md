@@ -89,7 +89,7 @@
 	<a href="https://github.com/search?q=user:mhoveida+topic:nlp&type=repositories"><img src="https://img.shields.io/badge/More%20ML%2FAI%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 	</p>
 
-<h2>🌐 Web Applications Projects:</h2>
+<h2>🌐 Web Application Projects:</h2>
   <p align="left">
     <a href="https://github.com/mhoveida/UI-Project-Sleep-Cycle"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=UI-Project-Sleep-Cycle&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="UI-Project-Sleep-Cycle"></a>
 	<a href="https://github.com/mhoveida/Overwater-Bungalow-Explorer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Overwater-Bungalow-Explorer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Overwater-Bungalow-Explorer"></a>
