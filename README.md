@@ -4,7 +4,7 @@
 
 - I’m currently working on Crackd.ai, building an AI-powered meme generation platform that transforms user-uploaded images into personalized memes using generative AI techniques. [Crackd.ai](https://crackd.ai/)
 
-- - I recently worked on Routerr Health, developing a clinical route optimization and scheduling system using constraint programming to optimize healthcare visits while accounting for geographic constraints, travel time, and scheduling requirements. [Routerr Health](https://github.com/Routerr-Health)
+- I recently worked on Routerr Health, developing a clinical route optimization and scheduling system using constraint programming to optimize healthcare visits while accounting for geographic constraints, travel time, and scheduling requirements. [Routerr Health](https://github.com/Routerr-Health)
 
 - Some of my projects are available at my [portfolio](https://www.mohaddeseh.com/home) and [github](https://github.com/mhoveida/)
 
