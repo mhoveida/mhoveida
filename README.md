@@ -75,7 +75,7 @@
     <a href="https://github.com/mhoveida/Image-Caption-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Image-Caption-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Image-Caption-Generator"></a>
 	<a href="https://github.com/mhoveida/Semantic-Role-Labeling"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Semantic-Role-Labeling&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Semantic-Role-Labeling"></a>
 	<a href="https://github.com/mhoveida/Transition-Based-Dependency-Parser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Transition-Based-Dependency-Parser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Transition-Based-Dependency-Parser"></a>
-	<a href="https://github.com/search?q=user:mhoveida+topic:nlp&type=repositories"><img src="https://img.shields.io/badge/More%20Computer%20Vision%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
+	<a href="https://github.com/search?q=user:mhoveida+topic:nlp&type=repositories"><img src="https://img.shields.io/badge/More%20NLP%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 		</p>
 
 <h2>🤖 Machine Learning/AI Projects:</h2>
