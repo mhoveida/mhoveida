@@ -91,8 +91,8 @@
 	<a href="https://github.com/mhoveida/ML-Classifier-Comparison"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=ML-Classifier-Comparison&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ML-Classifier-Comparison"></a>
 	<a href="https://github.com/mhoveida/MNIST-Sign-Language-CNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=MNIST-Sign-Language-CNN&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MNIST-Sign-Language-CNN"></a>
 	<a href="https://github.com/mhoveida/Robot-Path-Planning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mhoveida&repo=Robot-Path-Planning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Robot-Path-Planning"></a>
+	<a href="https://github.com/search?q=user:mhoveida+topic:nlp&type=repositories"><img src="https://img.shields.io/badge/More%20ML%2FAI%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 	</p>
-	<a href="https://github.com/mhoveida?tab=repositories&q=ml+OR+prediction+OR+classifier"><img src="https://img.shields.io/badge/More%20ML%2FAI%20Projects-F85D7F?style=for-the-badge&logo=github&logoColor=000000" /></a>
 
 <h2>🌐 Web Applications Projects:</h2>
   <p align="left">
